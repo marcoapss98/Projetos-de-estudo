@@ -1,0 +1,11 @@
+ID_Venda,Data_Venda,Cliente,Produto,Valor
+1,2023-08-01,João,Produto A,100
+2,2023-08-02,Maria,Produto B,150
+3,2023-08-03,Carlos,Produto A,120
+4,2023-08-03,Ana,Produto C,200
+5,2023-08-04,João,Produto B,130
+6,2023-08-05,Laura,Produto A,110
+7,2023-08-06,Maria,Produto C,180
+8,2023-08-06,João,Produto A,90
+9,2023-08-07,Carlos,Produto B,160
+10,2023-08-07,Ana,Produto A,140
